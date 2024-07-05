@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to my GitHub world.
+
+I have 8 years of SWE experience trying to improve every day.
 <!--
 **bhuvanonymous/bhuvanonymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
